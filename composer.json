@@ -1,13 +1,17 @@
 {
-    "name": "stichoza/google-translate-php",
-    "description": "Free Google Translate API PHP Package",
+    "name": "benomas/crudvel-translate",
+    "description": "Free Google Translate API PHP Package Fork of stichoza/google-translate-php",
     "keywords": ["google", "translate", "translator", "php"],
     "license": "MIT",
-    "homepage": "http://github.com/Stichoza/google-translate-php",
+    "homepage": "https://github.com/benomas/crudvel-translate",
     "authors": [
         {
             "name": "Levan Velijanashvili",
             "email": "me@stichoza.com"
+        },
+        {
+            "name": "benomas",
+            "email": "benomas@gmail.com"
         }
     ],
     "require": {
